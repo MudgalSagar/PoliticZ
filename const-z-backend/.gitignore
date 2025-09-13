@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# .env files containing sensitive data
+.env
+
+# npm debug log
+npm-debug.log*
+
+# Yarn lock file (optional, depending on your package manager)
+yarn-error.log
+
+# Build output (if applicable)
+dist/
+build/
+
+# VSCode settings (optional, only if you’re using VSCode)
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Coverage folder (if using a test coverage tool like Jest)
+coverage/
+
+# Dependency directories (optional)
+bower_components/
