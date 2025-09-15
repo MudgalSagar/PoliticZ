@@ -15,4 +15,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/constz-politicz.git
+   git clone https://github.com/MudgalSagar/politicz.git
